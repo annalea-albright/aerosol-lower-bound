@@ -1,4 +1,4 @@
-# Origins of a relatively tight lower bound on anthropogenic aerosol radiative forcing from Bayesian analysis of historical observations
+# Origins of a relatively tight lower bound on anthropogenic aerosol radiative forcing from Bayesian analysis of historical observations (2021)
 Anna Lea Albright, Cristian Proistosescu, and Peter Huybers
 
 **Data availability:** Historical observed global-mean surface temperatures are from [Cowtan and Way, 2014, version 2.0](https://www-users.york.ac.uk/~kdc3/papers/coverage2013/series.html). IPCC AR5 [effective radiative forcing data, Table AII.1.2](https://www.ipcc.ch/site/assets/uploads/2017/09/WG1AR5_AnnexII_FINAL.pdf) are from [Myhre et al, 2013](https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter08_FINAL.pdf). Transient effective aerosol forcing data from the RFMIP experiment in CMIP6 were accessed at [ESGF](https://esgf-node.llnl.gov/search/cmip6/). Sulfur dioxide, black carbon, and organic carbon data are from [Hoesly et al, 2018](https://doi.org/10.5194/gmd-11-369-2018-supplement).
